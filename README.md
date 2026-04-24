@@ -1,4 +1,4 @@
-# PaiAgent — AI Agent Workflow Orchestration Platform
+# PaiFlow — AI Agent Workflow Orchestration Platform
 
 - Built an enterprise-grade AI Agent workflow orchestration platform similar to Dify and Coze, supporting visual drag-and-drop node editing with a **React + TypeScript** frontend and **Spring Boot (Java 21)** backend
 - Designed and implemented a **DAG-based workflow engine** that parses JSON DSL into an executable directed acyclic graph, scheduling nodes (LLM, tool, input/output) in topological order with context passing between nodes
